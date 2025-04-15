@@ -1,1 +1,1 @@
-This is a program to introduce myself to neural networks using tensorflow and keras
+This is a program to introduce myself to neural networks using TensorFlow and Keras. We feed this model inputs and outputs, looking to see if the model can identify the pattern of 2x+1, and then we ask the model to predict the value for a new input.
